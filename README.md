@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnnaJuliaB23
-- 👀 I’m interested in musics
-- 🌱 I’m currently learning it
+- I have a degree in computer technology
 - 📫 How to reach me @annajuliab
 
 <!---
